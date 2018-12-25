@@ -33,3 +33,5 @@ tar -xZvf file.tar.Z
 unrar e file.rar 
 # 解压zip
 unzip file.zip 
+# 解压tar.xz
+tar xvJf  file.tar.xz
